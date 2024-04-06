@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    font-family: "Times New Roman";
+    background-color:#fff;
+    color:#000;
+}
+.container {
+    width:100%;
+    height:100vh;
+    /* CSS Smooth Scroll */
+    overflow-y:scroll;
+    scroll-behavior: smooth;
+}
+.header1{
+    font-family: Lobster;
+    text-align: center;
+    font-size: 39px;
+}
+nav{
+    font-family:Poppins;
+}
+nav ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #333;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 153px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+nav li a:hover {
+    background-color: #111;
+}
+#logout{
+    position:relative;
+    top:-36px;
+    left:96%;
+}
+.header2{
+    margin-top:10px;
+    margin-left:20px;
+    font-family:Poppins;
+}
+.search-input{
+    border:0px solid #ccc;
+    border-bottom: 2px solid #ccc;
+    width:40%;
+    height:5vh;
+    font-family:Poppins;
+}
+.button {
+    background-color: transparent; /* Green */
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}
+.search-box{
+    margin-top:20px;
+    margin-left:20px;
+}
+.content1{
+    background: #303036;
+    color: #d3d3d3;
+    height: 267px;
+    font-family:poppins;
+    margin-top:217px;
+}
+.foot-text{
+    position:relative;
+    top:51px;
+    left:60px;
+}
+.foot-text2{
+    position:relative;
+    bottom:69px;
+    right:300px;
+    text-align:right;
+}
+.facebook{
+    position:relative;
+    left:201px;
+    bottom:49px;
+    text-align: center;
+}
+.instagram{
+    position:relative;
+    left:291px;
+    bottom:112px;
+    text-align: center;
+}
+.twitter{
+    position:relative;
+    left:384px;
+    bottom:175px;
+    text-align: center;
+}
+footer .footer-bottom {
+    background: #343a40;
+    color: #686868;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    padding-top: 20px;
+}

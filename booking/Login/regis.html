@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Login - Travel Bus Pass</title>
+    <link rel="stylesheet" href="style 1.css">
+	<link rel="icon" type="image/png" href="../favicon.png">
+</head>
+<body>
+    <div class="container">
+        <h1 class="header1">Travel Bus Pass</h1>
+        <nav>
+            <ul>
+                <li><a href="..\index.html">Home</a></li>
+                <li><a href="About">About</a></li>
+                <li><a href="index.html">Contact</a></li>
+            </ul>
+        </nav>
+    </div>
+    <div class="center">
+        <h1>Sign Up</h1>
+        <form action="regis.php" method="post" name ="regi">
+            <div class="txt_field">
+                <input type="text" name="name" required>
+                <span></span>
+                <label>Name</label>
+            </div>
+            <div class="txt_field">
+                <input type="email" name="email"required>
+                <span></span>
+                <label>Email</label>
+            </div>
+            <div class="txt_field">
+                <input type="password" name="password"required>
+                <span></span>
+                <label>Password</label>
+            </div>
+            <div class="txt_field">
+                <input type="password" name="repass"required>
+                <span></span>
+                <label>Confirm Password</label>
+            </div>
+
+            <input type="submit" name="signup" value="SignUp" onclick="register()">
+            <div class="signup_link">
+                Already a member? <a href="login.html">Login</a>
+            </div>
+        </form>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
