@@ -37,3 +37,10 @@ git clone https://github.com/yourusername/travel-bus-pass.git
   <li>Browse and purchase passes.</li>
   <li>Manage passes and view schedules.</li>
 </ol>
+
+### Contributing
+<p>Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or create a pull request.</p>
+
+### Contact
+Name: Vibinraj Rajesh<br>
+Email: vibinrajesh2021@gmail.com
