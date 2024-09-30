@@ -24,7 +24,7 @@ This repository contains the source code for a travel bus pass website developed
   <li>Clone the repository.</li>
 
   ```
-    git clone https://github.com/yourusername/Travel-Buss-Pass-V2.0.git
+    git clone https://github.com/VibinrajRajesh/Travel-Buss-Pass.git
   ```
   <li>Import the MySQL database schema.</li>
   <li>Configure the database connection.</li>
