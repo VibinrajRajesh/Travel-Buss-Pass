@@ -1,0 +1,73 @@
+@import url("scroll.css");
+
+/*Navbar CSS*/
+@import url("nav.css");
+
+/* Login CSS */
+@import url("login.css");
+
+@font-face {
+  font-family: "Bebas Neue";
+  src: url("../fonts/Bebas_Neue/BebasNeue-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url("../fonts/Roboto/Roboto-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: url("../fonts/Poppins/Poppins-Regular.ttf");
+}
+
+body{
+  background-color: #FAF9F6;
+}
+
+.container{
+  background-color: #fff;
+  margin-top:6%;
+}
+
+.header {
+  text-align: center;
+  padding-top: 2rem;
+}
+
+hr {
+  height: 5px;
+  background-color: #5200ff;
+  opacity: 1;
+  width: 8%;
+  border: 0;
+  margin: auto;
+  border-radius: 10px;
+}
+
+
+.input1{
+  width:24.5% !important;
+}
+
+
+input[type="text"]{
+  width:50%;
+}
+
+input[type="email"]{
+  width:50%;
+}
+
+.btn{
+  margin-left:42%;
+  background-color: #5200ff;
+  color:#fff;
+  border:0;
+  padding:10px;
+}
+
+select{
+  height:4.2vh;
+  width:50%;
+}

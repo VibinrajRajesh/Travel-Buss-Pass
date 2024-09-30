@@ -1,0 +1,93 @@
+@import url("scroll.css");
+
+/*Navbar CSS*/
+@import url("nav.css");
+
+/* Login CSS */
+@import url("login.css");
+
+@font-face {
+  font-family: "Bebas Neue";
+  src: url("../fonts/Bebas_Neue/BebasNeue-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url("../fonts/Roboto/Roboto-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: url("../fonts/Poppins/Poppins-Regular.ttf");
+}
+
+body {
+  font-family: "Roboto";
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.admin2 {
+  padding-right: 10px;
+}
+
+.header1 {
+  font-family: "Roboto";
+  text-align: center;
+  text-transform: uppercase;
+  padding-top: 8%;
+}
+
+hr {
+  background-color: #5200ff;
+  width: 6%;
+  height: 1vh;
+  opacity: 1;
+  border: 0;
+  border-radius: 20px;
+  margin-left: 47%;
+}
+
+.header2 {
+  margin-left: 10%;
+  letter-spacing: 2px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.header3 {
+  margin-left: 10%;
+  text-align: center;
+}
+
+.lead2 {
+  text-align: center;
+  margin-left: 64px;
+}
+.lead {
+  text-align: center;
+}
+
+.lead3 {
+  margin-left: 7%;
+  text-align: center;
+}
+
+ul {
+  margin-left: 62px;
+}
+
+.tags {
+  text-align: center;
+  padding-top: 3rem;
+}
+
+.tags p {
+  font-size: 1.5rem;
+}
+
+.ender {
+  background-color: #5200ff;
+}
+
+

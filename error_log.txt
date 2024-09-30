@@ -1,0 +1,347 @@
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:32
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:32
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:36
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:36
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:36
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:36
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\upprofile.php:70
+Error:[2] Undefined array key "id" - C:\xampp\htdocs\TBP2\upprofile.php:72
+Error:[2] Trying to access array offset on value of type null - C:\xampp\htdocs\TBP2\upprofile.php:92
+Error:[2] Trying to access array offset on value of type null - C:\xampp\htdocs\TBP2\upprofile.php:93
+Error:[2] Trying to access array offset on value of type null - C:\xampp\htdocs\TBP2\upprofile.php:94
+Error:[2] Trying to access array offset on value of type null - C:\xampp\htdocs\TBP2\upprofile.php:95
+Error:[2] Trying to access array offset on value of type null - C:\xampp\htdocs\TBP2\upprofile.php:96
+Error:[2] Trying to access array offset on value of type null - C:\xampp\htdocs\TBP2\upprofile.php:97
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\upprofile.php:70
+Error:[2] Undefined array key "id" - C:\xampp\htdocs\TBP2\upprofile.php:72
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\upprofile.php:70
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\upprofile.php:70
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\upprofile.php:70
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\upprofile.php:70
+Error:[2] Undefined array key "id" - C:\xampp\htdocs\TBP2\upprofile.php:92
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\upprofile.php:70
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\upprofile.php:60
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\book.php:126
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\sucesspage.php:35
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:140
+Error:[2] Undefined variable $json - C:\xampp\htdocs\TBP2\book.php:138

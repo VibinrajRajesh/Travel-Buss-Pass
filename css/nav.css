@@ -1,0 +1,16 @@
+.navbar-nav {
+  font-family: "Roboto";
+}
+
+.logo {
+  font-family: "Bebas Neue";
+  color: #5200ff;
+}
+
+.logo:hover {
+  color: #5200ff;
+}
+
+.logo:visited {
+  color: #5200ff;
+}

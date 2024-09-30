@@ -1,0 +1,37 @@
+@import url("scroll.css");
+
+/*Navbar CSS*/
+@import url("nav.css");
+
+@import url("login.css");
+
+@font-face {
+  font-family: "Bebas Neue";
+  src: url("../fonts/Bebas_Neue/BebasNeue-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url("../fonts/Roboto/Roboto-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: url("../fonts/Poppins/Poppins-Regular.ttf");
+}
+
+body{
+  background-color: #FAF9F6;
+}
+
+.container{
+  background-color: #fff;
+  width:50%;
+  margin-top: 10%;
+  padding-top:0;
+}
+
+.checkimg{
+    margin-top:5%;
+    margin-left:38%;
+}

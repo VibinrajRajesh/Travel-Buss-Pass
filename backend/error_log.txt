@@ -1,0 +1,360 @@
+Error:[2] include(partials/navl.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:20
+Error:[2] include(): Failed opening 'partials/navl.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:20
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:88
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:88
+Error:[2] include(partials/navl.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:20
+Error:[2] include(): Failed opening 'partials/navl.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:20
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:88
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:88
+Error:[2] include(./partials/nav.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:20
+Error:[2] include(): Failed opening './partials/nav.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:20
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:88
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:88
+Error:[2] include(./partials/nav.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:20
+Error:[2] include(): Failed opening './partials/nav.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:20
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:88
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:88
+Error:[2] include(./partials/nav.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:20
+Error:[2] include(): Failed opening './partials/nav.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:20
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:88
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:88
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:88
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:88
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:33
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:33
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:33
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:33
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:33
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:33
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:33
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:33
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:33
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:33
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:33
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:33
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:33
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:33
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:33
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:33
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:33
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:33
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:33
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:33
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:38
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:38
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:37
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:37
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:38
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:38
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:38
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:38
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:38
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:38
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:38
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:38
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:40
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:40
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:40
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:40
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:41
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:41
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:41
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:41
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:41
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:41
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:41
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:41
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:42
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:42
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:46
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:46
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:50
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:50
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:54
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:54
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:78
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:78
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[8] session_start(): Ignoring session_start() because a session is already active - C:\xampp\htdocs\TBP2\partials\nav.php:20
+Error:[2] include(./backend/register.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(): Failed opening './backend/register.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\partials\nav.php:50
+Error:[2] include(partials/footer.php): Failed to open stream: No such file or directory - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
+Error:[2] include(): Failed opening 'partials/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') - C:\xampp\htdocs\TBP2\backend\checkout\manual.php:81
