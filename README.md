@@ -1,7 +1,7 @@
 # **Travel Bus Pass Website - V2.0**<BR>
 This repository contains the source code for a travel bus pass website developed using PHP and MySQL.<BR>
 
-![Banner](https://github.com/VibinrajRajesh/Travel-Buss-Pass-V2.0/blob/main/Travel%20Buss%20Pass.png)
+![Banner](https://github.com/VibinrajRajesh/Travel-Buss-Pass/blob/main/Travel%20Buss%20Pass.png)
 
 ### Features<br>
 <ul>
